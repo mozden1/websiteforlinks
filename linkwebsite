@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Setrms</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .logo {
+            margin-bottom: 10px;
+        }
+        nav {
+            background-color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: black;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="setrms_logo_3.png" alt="Logo" class="logo" width="400"> <!-- Logo boyutunu ayarlayabilirsiniz -->
+    
+</header>
+
+<nav>
+    <a href="https://www.instagram.com/reel/DATfXcjN0an/?igsh=cjl3ZWd3MWpmcHUz">Fall Winter /25 (1) 1</a>
+    <a href="https://www.instagram.com/reel/DAWGksWtY1o/?igsh=MTh5OGF2N2h2eHE2Mg==">Fall Winter /25 (2)</a>
+</nav>
+
+</body>
+</html>
